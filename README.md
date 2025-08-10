@@ -1,16 +1,14 @@
-# I'm Hanae IKEN
-
 <p align="center"><a href="https://www.linkedin.com/in/hanae-iken-7232a2275/"><img width="80%" alt="Hello, I'm Hanae" src="./assets/hello-im-hanae.png" /></a></p>
 
 <br />
 
-**`Software engineer student`**
+**`Software Engineering Student`**
 
-I'm a software engineering student. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm a software engineering student. Building innovative solutions from backend microservices to AI-powered applications. Passionate about full-stack development, machine learning, and DevOps practices.
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -50,8 +48,4 @@ I'm a software engineering student. All coding projects are built from the groun
 
 <br />
 
----
 
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanae-Iken&show_icons=true&theme=gruvbox)
