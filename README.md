@@ -2,8 +2,6 @@
 
 <br />
 
-**`Software Engineering Student`**
-
 I'm a software engineering student. Building innovative solutions from backend microservices to AI-powered applications. Passionate about full-stack development, machine learning, and DevOps practices.
 
 ---
@@ -43,9 +41,4 @@ I'm a software engineering student. Building innovative solutions from backend m
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
 <img align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
 
-
-
-
 <br />
-
-
