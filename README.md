@@ -1,12 +1,13 @@
-<p align="center"><a href="https://www.linkedin.com/in/hanae-iken-7232a2275/"><img width="80%" alt="Hello, I'm Hanae" src="./assets/hello-im-hanae.png" /></a></p>
+# 💫 About Me:
+I am a Software Engineering student passionate about building innovative and scalable solutions.  
+My main interests revolve around **Full-Stack Development**, **DevOps practices**, and **Machine Learning**.  
 
-<br />
-
-I'm a software engineering student. Building innovative solutions from backend microservices to AI-powered applications. Passionate about full-stack development, machine learning, and DevOps practices.
+I enjoy working across different layers of software development, from backend microservices and cloud deployment pipelines to frontend interfaces and AI-powered applications.  
+Driven by curiosity and continuous learning, I aim to combine development, automation, and intelligent systems to deliver impactful solutions.
 
 ---
 
-### Languages and Tools
+### 🛠️ Languages and Tools
 
 <div align="center" style="display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; margin-bottom: 20px;">
   <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -42,3 +43,4 @@ I'm a software engineering student. Building innovative solutions from backend m
   <img alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"/>
   <img alt="Trello" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"/>
 </div>
+
